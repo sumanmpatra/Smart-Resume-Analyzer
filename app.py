@@ -7,6 +7,7 @@ import matplotlib.pyplot as plt
 import spacy
 from collections import Counter
 import numpy as np
+from textstat import flesch_reading_ease, flesch_kincaid_grade
 import nltk
 from nltk.sentiment import SentimentIntensityAnalyzer
 from wordcloud import WordCloud
