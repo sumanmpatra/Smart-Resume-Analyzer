@@ -1,0 +1,37 @@
+Job Title: Software Engineer, University Graduate
+
+Location: Bangalore / Hyderabad / Gurgaon, India
+
+About the Job:
+Join Google’s dynamic engineering team to build products used by billions. As a Software Engineer, you’ll design, develop, test, deploy, and improve software solutions. We look for engineers who bring fresh ideas and are ready to tackle challenging technical problems.
+
+Responsibilities:
+- Write clean, maintainable, and efficient code.
+- Collaborate with cross-functional teams on large-scale projects.
+- Participate in code reviews and mentor junior engineers.
+- Troubleshoot and debug technical issues across the stack.
+- Contribute to engineering standards and best practices.
+
+Minimum Qualifications:
+- Bachelor’s degree in Computer Science, related technical field, or equivalent practical experience.
+- Strong programming skills in one or more of: Python, Java, C++, Go.
+- Good understanding of data structures and algorithms.
+- Experience with distributed systems or backend technologies.
+
+Preferred Qualifications:
+- Master's degree or PhD in Computer Science or related field.
+- Hands-on experience with cloud platforms like Google Cloud, AWS, or Azure.
+- Knowledge of machine learning fundamentals or frameworks like TensorFlow or PyTorch.
+- Contributions to open-source projects.
+- Strong communication and teamwork skills.
+
+Skills & Tools:
+- Python, Java, C++
+- Data Structures and Algorithms
+- System Design
+- Cloud Computing (GCP, AWS)
+- Linux, Git
+- SQL, NoSQL databases
+- REST APIs, Microservices
+
+Google is proud to be an equal opportunity workplace. We welcome applicants from all backgrounds.
