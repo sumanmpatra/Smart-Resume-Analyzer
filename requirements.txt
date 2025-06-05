@@ -1,9 +1,10 @@
 streamlit
 PyMuPDF
 scikit-learn
-matplotlib
 spacy
-numpy
 nltk
-pandas
+textstat
+matplotlib
 wordcloud
+pandas
+numpy
