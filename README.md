@@ -1,8 +1,9 @@
 # 📄 Smart Resume Analyzer
 
-
 **Smart Resume Analyzer** is a Streamlit-based web app that intelligently analyzes student resumes and compares them with job descriptions using **NLP**, **ML**, and **GPT-powered feedback** — perfect for campus placements and hackathons.
 
+## 🚀 Check out the live Demo:
+https://smart-resume-analyzer-p2gycg7whgvekiwxtcwpti.streamlit.app/
 
 
 ## 🚀 Features
